@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "tunnel_url": "",
+  "tunnel_url": "https://your-tunnel-url.vscode.dev",
   "update_interval_hours": 24,
-  "database_update_times": []
+  "last_updated": "2024-01-01T00:00:00Z"
 }
