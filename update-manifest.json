@@ -1,0 +1,27 @@
+
+{
+  "version": "1.0.00002",
+  "description": "POS Extension Files",
+  "files": [
+    {
+      "name": "offline-pos.html",
+      "path": "update-files/offline-pos.html",
+      "type": "html"
+    },
+    {
+      "name": "offline-pos.js",
+      "path": "update-files/offline-pos.js",
+      "type": "javascript"
+    },
+    {
+      "name": "styles.css",
+      "path": "update-files/styles.css",
+      "type": "css"
+    },
+    {
+      "name": "content.js",
+      "path": "update-files/content.js",
+      "type": "javascript"
+    }
+  ]
+}
