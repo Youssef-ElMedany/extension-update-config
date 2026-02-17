@@ -25,7 +25,7 @@
     },
     { 
       "name": "background-core.js", 
-      "path": "update-files/background-core.js", 
+      "path": "update-files/background.js", 
       "type": "javascript" }
   ]
 }
