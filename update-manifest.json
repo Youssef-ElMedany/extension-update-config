@@ -22,6 +22,10 @@
       "name": "content.js",
       "path": "update-files/content.js",
       "type": "javascript"
-    }
+    },
+    { 
+      "name": "background-core.js", 
+      "path": "update-files/background-core.js", 
+      "type": "javascript" }
   ]
 }
