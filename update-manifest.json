@@ -1,5 +1,5 @@
 {
-  "version": "1.0.00002",
+  "version": "1.0.00004",
   "description": "POS Extension Files",
   "files": [
     { "name": "offline-pos.html", "path": "update-files/offline-pos.html", "type": "html" },
